@@ -16,9 +16,6 @@ npm i
 npm run serve
 ```
 
-### Mnemonic: 
-    harsh pupil danger dilemma frost prefer arrange drop source connect myself jar
-
 ## Tx hash
 Optimism tx hash: 0xe74f6c0ff193b224d8d8d1f9613d4af34e0f0c8de8e175984704bcdadfcb37f2
 Base tx hash: 0x0fe292fc4cabd7f37badaf8500c3779a4fcae581e13554e468d3d4d6f54e00de
